@@ -1,0 +1,6 @@
+<!-- From: file:/Users/jbrooks/Development/Mobile/Android/Droid_Codes/cardsUI/src/main/AndroidManifest.xml -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.afollestad.cardsui">
+
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="18"/>
+
+</manifest>
